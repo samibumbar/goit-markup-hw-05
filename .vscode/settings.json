@@ -1,3 +1,5 @@
 {
-  "liveServer.settings.port": 5502
+  "liveServer.settings.port": 5502,
+  "window.autoDetectColorScheme": false,
+  "window.closeWhenEmpty": false
 }
